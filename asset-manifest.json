@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/static/css/main.83592c0a.css",
+    "main.js": "/static/js/main.626d770b.js",
+    "static/css/962.6e95e527.chunk.css": "/static/css/962.6e95e527.chunk.css",
+    "static/js/962.eff0f819.chunk.js": "/static/js/962.eff0f819.chunk.js",
+    "static/css/990.c6a7ee28.chunk.css": "/static/css/990.c6a7ee28.chunk.css",
+    "static/js/990.73a57ebd.chunk.js": "/static/js/990.73a57ebd.chunk.js",
+    "static/media/yeuap.jpeg": "/static/media/yeuap.c638792a66ec0dd420fe.jpeg",
+    "static/media/ddfrs.jpeg": "/static/media/ddfrs.93c77c86289d5b285961.jpeg",
+    "static/media/ASUlogo.png": "/static/media/ASUlogo.545babafae4b4edd7987.png",
+    "static/media/Montserrat-Regular.ttf": "/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
+    "static/media/ucdavis.png": "/static/media/ucdavis.5f81e4336d90824ff87f.png",
+    "static/media/gtuLOGO.png": "/static/media/gtuLOGO.a1e31d9b3df06f5a940f.png",
+    "static/media/Agustina.woff": "/static/media/Agustina.eb0c59dda4cc308cba96.woff",
+    "static/media/manOnTable.svg": "/static/media/manOnTable.8f117eb207e57ed8f89d67d595aceb45.svg",
+    "static/media/irass.webp": "/static/media/irass.8d1b63fb654311c4b561.webp",
+    "static/media/contactMailDark.svg": "/static/media/contactMailDark.1db650d351729a0f17b4e3104e6a7b7a.svg",
+    "static/media/developerActivity.svg": "/static/media/developerActivity.2c0445cae86f4243433a2f5a22b2c031.svg",
+    "static/media/sgts.webp": "/static/media/sgts.cce1d6c8f66433b8cdc9.webp",
+    "static/media/ASlogo.png": "/static/media/ASlogo.c5a59330a44a6c812534.png",
+    "static/media/stanford.png": "/static/media/stanford.8ae229aa65c677c98540.png",
+    "static/media/iitm.png": "/static/media/iitm.3ba3cba010525ff1c258.png",
+    "static/media/skill.svg": "/static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
+    "index.html": "/index.html",
+    "static/media/talksCardBack.svg": "/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
+    "main.83592c0a.css.map": "/static/css/main.83592c0a.css.map",
+    "main.626d770b.js.map": "/static/js/main.626d770b.js.map",
+    "962.6e95e527.chunk.css.map": "/static/css/962.6e95e527.chunk.css.map",
+    "962.eff0f819.chunk.js.map": "/static/js/962.eff0f819.chunk.js.map",
+    "990.c6a7ee28.chunk.css.map": "/static/css/990.c6a7ee28.chunk.css.map",
+    "990.73a57ebd.chunk.js.map": "/static/js/990.73a57ebd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.83592c0a.css",
+    "static/js/main.626d770b.js"
+  ]
+}
